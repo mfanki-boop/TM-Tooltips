@@ -1,6 +1,17 @@
-
 {
+  "general.chalkboardChalkStyle": "general.chalkboardChalkStyle.png",
+  "general.checkoutHeaderBorder": "general.checkoutHeaderBorder.png",
+  "general.checkoutNumberItalic": "general.checkoutNumberItalic.png",
+  "general.compactTournaments": "general.compactTournaments.png",
+  "general.defaultBoard": "general.defaultBoard.png",
+  "general.lowerMatchQuickActions": "general.lowerMatchQuickActions.png",
+  "general.lowerMatchUiBar": "general.lowerMatchUiBar.png",
+  "general.match3dEffect": "general.match3dEffect.png",
+  "general.matchShortcuts": "general.matchShortcuts.png",
+  "general.matchUiScaling": "general.matchUiScaling.png",
   "general.showPlayercard": "general.showPlayercard.png",
   "general.specialClock": "general.specialClock.png",
-  "general.matchShortcuts": "general.matchShortcuts.png"
+  "general.translations": "general.translations.png",
+  "general.avatarZoom": "general.avatarZoom.png",
+  "general.playerbox": "general.playerbox.png"
 }
