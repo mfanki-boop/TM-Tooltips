@@ -15,8 +15,12 @@
   "general.avatarZoom": "general.avatarZoom.png",
   "general.playerbox": "general.playerbox.png",
   "checkoutHighlight.enabled": "checkoutHighlight.enabled.png",
+  "general.segmentHighlight": "general.segmentHighlight.png",
+  "notifications.push": "notifications.push.png",
+  "voiceControl.enabled": "voiceControl.enabled.png",
+  "botDarts.enable": "botDarts.enable.png",
   "legHistory.enabled": "legHistory.enabled.png",
-  "legHistory.legs": "legHistory.legs.png",
+  "botBoards.enable": "botBoards.enable.png",
   "legHistory.line": "legHistory.line.png",
   "legHistory.values": "legHistory.values.png"
 }
